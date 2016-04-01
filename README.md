@@ -1,1 +1,1 @@
-Python programming practice in 2013.
+Python programming exercise in 2013.
